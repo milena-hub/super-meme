@@ -1,0 +1,2 @@
+Kljucne reci Java:abstract, case, const,enum, float,import,native,throw,catch,for,new,public,while,final,double,else,static,try,throws,long,return,null
+Sest odabranih:for, catch,false,true,else,return
